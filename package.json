@@ -1,0 +1,16 @@
+{
+  "name": "arrayfindindex-example",
+  "version": "1.0.0",
+  "description": "The findIndex() iteration method returns will return the index of the first element in an array that satisfies the conditions defined in the callback function. In this example, the index of the first item starting with a \"b\".",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
